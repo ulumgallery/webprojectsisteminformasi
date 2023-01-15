@@ -1,0 +1,11 @@
+*{padding:0; margin;0;}
+
+body{background:#ffeaa7}
+header{background:#fdcb6e; width:1300px; margin:auto;padding:10px}
+menu{background:#e15f41; width:1300px; margin:auto;padding:10px}
+menu a{color:white;text-decoration:none;margin:0 20px 0 0;}
+article{background:#fad390; width:1300px; margin:auto;padding:10px}
+article img{float:left; margin:10px 10px 10px 0}
+footer{background:#f3a683; width:1300px; margin:auto;padding:10px}
+
+
